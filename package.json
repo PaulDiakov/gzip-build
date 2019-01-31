@@ -1,0 +1,14 @@
+{
+  "name": "gzip-build",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/PaulDiakov/gzip-build.git",
+  "author": "Paul Diakov <paul.diakov@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "gzip-build": "./src/index.js"
+  },
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
+}
